@@ -45,8 +45,6 @@ If lara doesnt work on your device, and you want to help the project, please als
 - 3 App Bypass
 - File Manager (Full Disk r/w)
 - DirtyZero 2 (Broken)
-
-### coming soon:
 - MobileGestalt Editor
 
 ## known issues:
